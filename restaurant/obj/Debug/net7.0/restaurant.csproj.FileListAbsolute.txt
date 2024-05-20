@@ -1,0 +1,15 @@
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/bin/Debug/net7.0/restaurant
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/bin/Debug/net7.0/restaurant.deps.json
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/bin/Debug/net7.0/restaurant.runtimeconfig.json
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/bin/Debug/net7.0/restaurant.dll
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/bin/Debug/net7.0/restaurant.pdb
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/obj/Debug/net7.0/restaurant.csproj.AssemblyReference.cache
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/obj/Debug/net7.0/restaurant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/obj/Debug/net7.0/restaurant.AssemblyInfoInputs.cache
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/obj/Debug/net7.0/restaurant.AssemblyInfo.cs
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/obj/Debug/net7.0/restaurant.csproj.CoreCompileInputs.cache
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/obj/Debug/net7.0/restaurant.dll
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/obj/Debug/net7.0/refint/restaurant.dll
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/obj/Debug/net7.0/restaurant.pdb
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/obj/Debug/net7.0/restaurant.genruntimeconfig.cache
+/Users/samermunawwar/Desktop/LTU utbildning/restaurant/restaurant/obj/Debug/net7.0/ref/restaurant.dll
